@@ -8,11 +8,6 @@
 <li>
 <li>
 <li>
-<li>
-<li>
-<li>
-<li>
-<li>
 </ol>
 
 <h3>Conclusion</h3>
